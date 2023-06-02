@@ -1,4 +1,4 @@
-# Scrapy Project Directorate General for National Export Development Ministry of Trade Republic of Indonesia
+# Scrapy Project - Directorate General for National Export Development Ministry of Trade Republic of Indonesia
 
 <h2>Objective</h2>
 In this project, I will scrape data using scrapy python on https://djpen.kemendag.go.id/.
